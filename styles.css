@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+.content{
+    display: flex;
+}
+nav,section{
+    width: 50%;
+    border: 2px solid black;
+}
+article{
+    display: flex;
+}
+footer{
+    display: flex;
+}
